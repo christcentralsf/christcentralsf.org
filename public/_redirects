@@ -1,1 +1,4 @@
 https://www.christcentralsf.org/* http://www.christcentralsf.com/:splat 301!
+
+# Redirect default Netlify subdomain to primary domain
+https://christcentralsf-org.netlify.com/* https://www.christcentralsf.org/:splat 301!
